@@ -22,9 +22,9 @@ int main(void)
 
 	        print_last_digit(98);
 
-		    print_last_digit(0);
+		    print_last_digit(25);
 
-		        r = print_last_digit(-1024);
+		        r = print_last_digit(-1048);
 
 			    _putchar('0' + r);
 
